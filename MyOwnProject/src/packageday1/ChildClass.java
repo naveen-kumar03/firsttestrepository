@@ -14,6 +14,7 @@ public class ChildClass {
 		var1.bonus=100;
 		int result = var1.CalculateSalary(2,5);
 		System.out.println("Salary:"+result );
+		System.out.println("Salary:"+result );
 		
 		ParentClass var2 = new ParentClass();
 		var2.salary=200;
